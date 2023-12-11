@@ -2,5 +2,5 @@
 - UCSC student  :)
 
 ```
-print("**hello world**")
+Debug.Log("Hello!")
 ```
