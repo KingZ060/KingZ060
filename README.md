@@ -2,5 +2,5 @@
 - UCSC student  :)
 
 ```
-Debug.Log("Hello!")
+Debug.Log(`**`"Hello!"`**`)
 ```
